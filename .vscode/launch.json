@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BasicLL",
+            "request": "launch",
+            "mainClass": "BasicLL",
+            "projectName": "DSA_JAVA_fbd26685"
+        },
+        {
+            "type": "java",
+            "name": "checkSortedArray",
+            "request": "launch",
+            "mainClass": "checkSortedArray",
+            "projectName": "DSA_JAVA_fbd26685"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "DSA_JAVA_fbd26685"
+        },
+        {
+            "type": "java",
+            "name": "bitMasking",
+            "request": "launch",
+            "mainClass": "BitManipulation.bitMasking",
+            "projectName": "DSA_JAVA_fbd26685"
+        },
+        {
+            "type": "java",
+            "name": "program2",
+            "request": "launch",
+            "mainClass": "program2",
+            "projectName": "DSA_JAVA_fbd26685"
+        },
+        {
+            "type": "java",
+            "name": "VowelinSubstring",
+            "request": "launch",
+            "mainClass": "VowelinSubstring",
+            "projectName": "DSA_JAVA_fbd26685"
+        },
+        {
+            "type": "java",
             "name": "prog3",
             "request": "launch",
             "mainClass": "prog3",
